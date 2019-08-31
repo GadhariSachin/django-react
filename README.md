@@ -5,9 +5,9 @@ Steps to follow to run project
 
 - Inside the project root directory console enter following commands one by one
 	```
-    	python mange.py migrate
-        python manage.py runserver
-    ```
+		python mange.py migrate
+		python manage.py runserver
+    	```
     
  - Now first install all dependency packages with 
  	` npm install`
