@@ -1,6 +1,6 @@
 # Django React Integration 
 
-###Step by step guide for  creating fullstack application usig django for backend and react for front-end
+### Step by step guide for  creating fullstack application usig django for backend and react for front-end
 
 
 ------------
