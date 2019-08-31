@@ -72,14 +72,14 @@ Django  Basic Setup and Configuration
 
 - To make sure we all are align together, checkout your folder structure which should look like this  
 	```	
-		- mysite
+		- mysite/
 			__init__.py
 			settings.py
 			urls.py
 			views.py
 			wsgi.py
-		- static
-		- template
+		- static/
+		- template/
 			index.html
 		manage.py
   ```
@@ -210,9 +210,9 @@ We have alsmost finished with our django setup and now we will go ahead and inte
 	```
 
 - Directory structure will look like this 
-	```
+    ```
     	- static/
-		 	-src/
+	     -src/
             	index.js
         - node_modules/       
         - package.json
