@@ -212,8 +212,8 @@ We have alsmost finished with our django setup and now we will go ahead and inte
 - Directory structure will look like this 
     ```
     	- static/
-	     -src/
-            	index.js
+		-src/
+            		index.js
         - node_modules/       
         - package.json
         - webpack.config.js
