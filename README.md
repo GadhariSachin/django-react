@@ -7,7 +7,7 @@ Steps to follow to run project
 	```
 		python mange.py migrate
 		python manage.py runserver
-    	```
+	```
     
  - Now first install all dependency packages with 
  	` npm install`
