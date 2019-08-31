@@ -210,14 +210,14 @@ We have alsmost finished with our django setup and now we will go ahead and inte
 	```
 
 - Directory structure will look like this 
-    ```
-    	- static/
-		-src/
-            		index.js
-        - node_modules/       
-        - package.json
-        - webpack.config.js
-    ```
+	```
+		- static/
+			-src/
+				index.js
+		- node_modules/       
+		- package.json
+		- webpack.config.js
+	```
 
 - Now run django server in one console  
 		python manage.py runserver 
